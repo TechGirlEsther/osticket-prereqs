@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Port and Protocols
+
 - Azure Compute and Networking
 - Ticketing Systems (osTicket)
 - Virtual Private Networks (VPNs)
