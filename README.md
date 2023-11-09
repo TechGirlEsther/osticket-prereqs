@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Post-Install Configuration</h1>
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -17,8 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
-
+<h2>Post-Install Configuration Objectives</h2>
 
 - Azure Compute and Networking
 - Ticketing Systems (osTicket)
@@ -27,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - DNS
 - Network File Shares and Permissions
 
-<h2>Installation Steps</h2>
+<h2>Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
