@@ -47,8 +47,6 @@ Configuring the MySQL
 
 ![image](https://github.com/TechGirlEsther/post-install-config/assets/149707807/0c28f5f9-3291-43d3-b091-4a4e428ad6f3)
 
-![image](https://github.com/TechGirlEsther/post-install-
-config/assets/149707807/5600b4f3-35d8-4fba-9882-c284621dd3a9)
 
 Finish Installation
 
